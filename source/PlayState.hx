@@ -584,13 +584,13 @@ class PlayState extends MusicBeatState
 				add(bg);
 
 				
-				var glitchEffect = new FlxGlitchEffect(13,10,0.2,FlxGlitchDirection.HORIZONTAL);
+				/*var glitchEffect = new FlxGlitchEffect(13,10,0.2,FlxGlitchDirection.HORIZONTAL);
 				var glitchSprite = new FlxEffectSprite(bg, [glitchEffect]);
 				coolGlitch = glitchSprite;
 				add(coolGlitch);
 				coolGlitch.x = bg.x;
 				coolGlitch.y = bg.y;
-				coolGlitch.visible = true;
+				coolGlitch.visible = true;*/
 
 			}
 
@@ -616,13 +616,13 @@ class PlayState extends MusicBeatState
 				add(bg);
 
 				
-				var glitchEffect = new FlxGlitchEffect(13,10,0.2,FlxGlitchDirection.HORIZONTAL);
+				/*var glitchEffect = new FlxGlitchEffect(13,10,0.2,FlxGlitchDirection.HORIZONTAL);
 				var glitchSprite = new FlxEffectSprite(bg, [glitchEffect]);
 				coolGlitch = glitchSprite;
 				add(coolGlitch);
 				coolGlitch.x = bg.x;
 				coolGlitch.y = bg.y;
-				coolGlitch.visible = true;
+				coolGlitch.visible = true;*/
 
 			}
 
